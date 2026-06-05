@@ -1,9 +1,9 @@
 # Simulador de Sistema de Arquivos com Journaling (JFS)
 
-*Autor 1: Aluno 1.*
-*Autor 2: Aluno 2.*
+*Autor 1: João Victor Aráujo.*
+*Autor 2: João Paulo Del Vecchio.*
 
-**Palavras-chave:** Sistemas Operacionais. Sistema de Arquivos. Journaling. Write-Ahead Logging. Java.
+**Palavras-chave:** Sistemas Operacionais. Sistema de Arquivos. Journaling. Java.
 
 ---
 
