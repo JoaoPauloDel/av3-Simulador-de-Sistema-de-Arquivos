@@ -3,7 +3,7 @@
 **UNIVERSIDADE DE FORTALEZA** **CENTRO DE CIÊNCIAS TECNOLÓGICAS - CURSO: CIÊNCIA DA COMPUTAÇÃO** **Disciplina:** Sistemas Operacionais
 **Autores:** João Paulo Del Vecchio e João Victor Araújo
 
-**Palavras-chave:** Sistemas Operacionais. Sistema de Arquivos. Journaling. Write-Ahead Logging. Java.
+**Palavras-chave:** Sistemas Operacionais. Sistema de Arquivos. Journaling. Java.
 
 ---
 
